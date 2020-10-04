@@ -1,0 +1,48 @@
+article {
+	margin-bottom: 15px;
+	padding-bottom: 250px;
+	padding-top: 10px;
+	font-family: Monospace;
+	background: url(kryptic.jpg);
+	background-repeat: no-repeat;
+	background-size: 1550px 500px;
+}
+
+div {
+	background-color: #E0FFFF;
+	margin-left: 2px;
+	margin-right: 2px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 2px;
+}
+
+article img{
+	padding-left: 250px;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	font-family: courier;
+}
+
+article a {
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	padding: 10px;
+}
+
+article a:hover {
+	background-color: #E0FFFF;
+	color: #a6a6a6;
+}
+
+p {
+	font-size: 22px;
+}
